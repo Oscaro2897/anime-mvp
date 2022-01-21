@@ -11,3 +11,8 @@
 [Start Over](../../README.md) <br>
 [Go back](../fantasy.md)
 
+<style>
+img {
+    width: 100px;
+}
+</style>

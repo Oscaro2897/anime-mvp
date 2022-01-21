@@ -6,7 +6,7 @@
 <img src="fate-stay-night.jpg">
 
 ## [Fate/Grand Order:Babylonia](fate-grand-order.md)
-<img src="fate-grand-order.jpg">
+<img class="img" src="fate-grand-order.jpg">
 
 [Start Over](../../README.md) <br>
 [Go back](../fantasy.md)

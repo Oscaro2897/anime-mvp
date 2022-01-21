@@ -4,6 +4,6 @@ Welcome! Great to have you here, I see that you have chosen Fantasy huh. Great c
 <img src="fate-franchise/image.jpg"> 
 
 ## [Record of Raganrok](ror.md)
-[Image soon]
+<img src="image.2.jpg">
 
 [Start Over](../README.md)

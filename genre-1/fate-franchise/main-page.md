@@ -12,6 +12,6 @@ Now that your here, it is time for a quick breakdown from me, your helpful anime
 <img src="fate-grand-order.jpg"> <br>
 [Start your binge!](https://animekisa.tv/fate-grand-order-zettai-majuu-sensen-babylonia)
 
-[Start Over](../../README.md) <br>
+[Start Over](../../anime.md) <br>
 [Go back](../fantasy.md)
 

@@ -1,4 +1,5 @@
 # Select Your Fate!
+Now that your here, it is time for a quick breakdown from me, your helpful anime guy! I would sugguest you start with zero, then move onto stay night since zero techinally happens before night, but it really doesn't matter what order you follow. And with grand order you can just watch that without anything since it's story connects with the mobile game. Anyways enough rambling, go on pick your fate!
 ## [Fate/Zero](fate-zero.md)
 <img src="fate-zero.jpg">
 

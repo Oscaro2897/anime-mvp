@@ -1,9 +1,13 @@
 # Select Your Fate!
 ## [Fate/Zero](fate-zero.md)
-[Image/link]
-## [Fate/stay night:ubw](fate-stay-night.md)
-[Image/link]
-## [Fate/Grand Order:Babylonia](fate-grand-order.md)
-[Image/link]
+<a herf="https://animekisa.tv/fate-zero"><img src="fate-zero.jpg"></a>
 
-[Start Over](../../README.md)
+## [Fate/stay night:ubw](fate-stay-night.md)
+<a herf="https://animekisa.tv/fate-stay-night-unlimited-blade-works"><img src="fate-stay-night.jpg"></a>
+
+## [Fate/Grand Order:Babylonia](fate-grand-order.md)
+<a herf="https://animekisa.tv/fate-grand-order-zettai-majuu-sensen-babylonia"><img src="fate-grand-order.jpg"></a>
+
+[Start Over](../../README.md) <br>
+[Go back](../fantasy.md)
+

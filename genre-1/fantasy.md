@@ -1,7 +1,7 @@
 # Select your Anime
 
 ## [Fate Franchise](fate-franchise/main-page.md) 
-<img src="fate-franchise/image.jpg">
+<img src="fate-franchise/image.jpg"> 
 ## [Record of Raganrok](ror.md)
 [Image soon]
 

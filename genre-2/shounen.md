@@ -1,1 +1,5 @@
- Wassup my people i see that you have choes shouen. Welp I'm to lazy to tell you what to do so just go on and click stuff :p.
+# Shounen 
+---
+#### Wassup my people i see that you have choes shouen. Welp I'm to lazy to tell you what to do so just go on and click stuff :p.
+[option 1](https://www.funimation.com/shows/jojos-bizarre-adventure)
+[option 2]

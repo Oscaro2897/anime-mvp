@@ -1,6 +1,7 @@
 ### [Saiki K.](https://www.netflix.com/title/80117781)
 ---
 
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/First_volume_of_Saiki_Kusuo_no_Psi-nan.jpg/220px-First_volume_of_Saiki_Kusuo_no_Psi-nan.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/First_volume_of_Saiki_Kusuo_no_Psi-nan.jpg/220px-First_volume_of_Saiki_Kusuo_no_Psi-nan.jpg"> <br>
 ---
+
 [Start Over](../README.md)

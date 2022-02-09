@@ -6,4 +6,4 @@ Welcome! Great to have you here, I see that you have chosen Fantasy huh. Great c
 ## [Record of Raganrok](ror.md)
 <img src="image.2.jpg">
 
-[Start Over](../anime.md)
+[Start Over](../README.md)

@@ -6,6 +6,8 @@
 ---
 <img src="Jojo.jpg">
 ---
+
 #### [And this is option 2](dbz.md) a classic in my opinion dragonball
 ---
+
 <img src="dbz.jpg">

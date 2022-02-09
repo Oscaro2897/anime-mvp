@@ -5,5 +5,5 @@ Ah so yuou have chosen record of ragnarok huh, well great pick, quick info for y
 
 [Start your binge!](https://animekisa.tv/shuumatsu-no-walkre)
 
-[Start Over](../anime.md) <br>
+[Start Over](../README.md) <br>
 [Go back](fantasy.md)

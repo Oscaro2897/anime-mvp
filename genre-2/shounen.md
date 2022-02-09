@@ -4,5 +4,8 @@
 ---
 [This is Option 1](https://www.funimation.com/shows/jojos-bizarre-adventure) it is Jojo 
 ---
+<img src="Jojo.jpg">
+---
 [And this is option 2](https://www.funimation.com/shows/dragon-ball/?qid=None) a classic in my opinion dragonball
-
+---
+<img src="dbz.jpg">

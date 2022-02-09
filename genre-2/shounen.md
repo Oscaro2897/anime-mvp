@@ -5,9 +5,12 @@
 #### [This is Option 1](jojo.md) it is Jojo 
 ---
 <img src="Jojo.jpg">
+
 ---
 
 #### [And this is option 2](dbz.md) a classic in my opinion dragonball
 ---
 
 <img src="dbz.jpg">
+
+[Start Over](../README.md)
